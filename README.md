@@ -3,7 +3,7 @@
 Patternlab template engine for mustache templates compiled with [hogan](https://github.com/twitter/hogan.js). Created to implement [template inheritance](https://github.com/mustache/spec/pull/75) in patternlab-node.
 
 ## Installing
-`npm install patternengine-node-mustache`
+`npm install patternengine-node-mustache-hogan`
 
 ## Supported features
 - [x] [Includes](http://patternlab.io/docs/pattern-including.html)
