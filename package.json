@@ -4,6 +4,8 @@
   "version": "1.0.2",
   "main": "lib/engine_mustache.js",
   "dependencies": {
+    "fs-extra": "0.30.0",
+    "hogan.js": "^3.0.2",
     "mustache": "^2.2.0"
   },
   "devDependencies": {
