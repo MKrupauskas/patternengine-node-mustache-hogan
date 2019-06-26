@@ -13,4 +13,4 @@ Patternlab template engine for mustache templates compiled with [hogan](https://
 - [x] [Pattern States](http://patternlab.io/docs/pattern-states.html)
 - [x] [Pattern Parameters](http://patternlab.io/docs/pattern-parameters.html)
 - [x] [Style Modifiers](http://patternlab.io/docs/pattern-stylemodifier.html)
-- [o] [Template Inheritance](https://github.com/mustache/spec/pull/75)
+- [ ] [Template Inheritance](https://github.com/mustache/spec/pull/75)
